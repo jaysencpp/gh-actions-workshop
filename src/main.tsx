@@ -8,6 +8,7 @@ export const SetupCounter = () => {
   return (
     //make centered and add some styles, preferably dracula styles
     <div className='flex flex-col h-full'>
+      
       <h1 className="text-3xl font-bold underline bg-red">
         This page was deployed using Github actions!🚀
       </h1>
