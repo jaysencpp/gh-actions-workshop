@@ -1,5 +1,7 @@
 # CI/CD workshop using Github actions
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/jaysencpp/gh-actions-workshop/.github%2Fworkflows%2Fbuild.yml)
+
 ## Workshop
 
 In the [Tasks](./tasks.md) file you will find the tasks for the workshop. Do as many as you can, but don't worry if you can't finish them all.
